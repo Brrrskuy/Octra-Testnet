@@ -1,5 +1,5 @@
 # <h2 align=center>Octra Testnet</h2>
-- Buy VPS : [Skuy Vibes Cloud](t.me/skuycloud)
+- Buy VPS : [Skuy Vibes](t.me/skuyvibes)
 - Trakteer buy Kopi : https://trakteer.id/brrrskuy/tip `<---`
 
 ## Install Requirements
